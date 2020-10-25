@@ -1,0 +1,55 @@
+.header{
+    background-image: url("img/random.png");
+    background-repeat: repeat;
+    background-position: left;
+    padding: 4%;
+}
+
+h1, h2{
+    color: dodgerblue;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1.5px;
+    font: inherit;
+    font-size: 40px;
+}
+
+h3 {
+    color: darkslateblue;
+    margin: 50px;
+
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+.form-row, .form-group{
+    margin-left: 23px;
+    margin-right: 5px;
+}
+
+.btn-primary {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.container img{
+    width: 180px;
+    height: 180px;
+    margin: 50px;
+    position: center;
+}
+
+.carousel {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.carousel-inner {
+    margin-top: 20px;
+    height: 600px;
+}
+
+
+
